@@ -1,0 +1,9 @@
+c:\users\admin\documents\visual studio 2012\Projects\POSM\POSM\bin\Debug\POSM.exe.config
+c:\users\admin\documents\visual studio 2012\Projects\POSM\POSM\bin\Debug\POSM.exe
+c:\users\admin\documents\visual studio 2012\Projects\POSM\POSM\bin\Debug\POSM.pdb
+c:\users\admin\documents\visual studio 2012\Projects\POSM\POSM\obj\Debug\POSM.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2012\Projects\POSM\POSM\obj\Debug\POSM.Form1.resources
+c:\users\admin\documents\visual studio 2012\Projects\POSM\POSM\obj\Debug\POSM.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2012\Projects\POSM\POSM\obj\Debug\POSM.csproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2012\Projects\POSM\POSM\obj\Debug\POSM.exe
+c:\users\admin\documents\visual studio 2012\Projects\POSM\POSM\obj\Debug\POSM.pdb
